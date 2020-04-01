@@ -1,0 +1,15 @@
+c:\users\robbie\documents\visual studio 2015\Projects\Chapter2-Robert.Herbert\Chapter2-Robert.Herbert\bin\Debug\Chapter2-Robert.Herbert.exe.config
+c:\users\robbie\documents\visual studio 2015\Projects\Chapter2-Robert.Herbert\Chapter2-Robert.Herbert\bin\Debug\Chapter2-Robert.Herbert.exe
+c:\users\robbie\documents\visual studio 2015\Projects\Chapter2-Robert.Herbert\Chapter2-Robert.Herbert\bin\Debug\Chapter2-Robert.Herbert.pdb
+c:\users\robbie\documents\visual studio 2015\Projects\Chapter2-Robert.Herbert\Chapter2-Robert.Herbert\bin\Debug\Chapter2-Robert.Herbert.xml
+c:\users\robbie\documents\visual studio 2015\Projects\Chapter2-Robert.Herbert\Chapter2-Robert.Herbert\obj\Debug\Chapter2-Robert.Herbert.vbprojResolveAssemblyReference.cache
+c:\users\robbie\documents\visual studio 2015\Projects\Chapter2-Robert.Herbert\Chapter2-Robert.Herbert\obj\Debug\Chapter2_Robert.Herbert.Form1.resources
+c:\users\robbie\documents\visual studio 2015\Projects\Chapter2-Robert.Herbert\Chapter2-Robert.Herbert\obj\Debug\Chapter2_Robert.Herbert.Resources.resources
+c:\users\robbie\documents\visual studio 2015\Projects\Chapter2-Robert.Herbert\Chapter2-Robert.Herbert\obj\Debug\Chapter2-Robert.Herbert.vbproj.GenerateResource.Cache
+c:\users\robbie\documents\visual studio 2015\Projects\Chapter2-Robert.Herbert\Chapter2-Robert.Herbert\obj\Debug\Chapter2-Robert.Herbert.exe
+c:\users\robbie\documents\visual studio 2015\Projects\Chapter2-Robert.Herbert\Chapter2-Robert.Herbert\obj\Debug\Chapter2-Robert.Herbert.xml
+c:\users\robbie\documents\visual studio 2015\Projects\Chapter2-Robert.Herbert\Chapter2-Robert.Herbert\obj\Debug\Chapter2-Robert.Herbert.pdb
+C:\Users\Robbie\Documents\Visual Studio 2015\Projects\Chapter 3\Chapter2-Robert.Herbert\Chapter2-Robert.Herbert\bin\Debug\Chapter2-Robert.Herbert.exe.config
+C:\Users\Robbie\Documents\Visual Studio 2015\Projects\Chapter 3\Chapter2-Robert.Herbert\Chapter2-Robert.Herbert\obj\Debug\Chapter2-Robert.Herbert.exe
+C:\Users\Robbie\Documents\Visual Studio 2015\Projects\Chapter 3\Chapter2-Robert.Herbert\Chapter2-Robert.Herbert\obj\Debug\Chapter2-Robert.Herbert.xml
+C:\Users\Robbie\Documents\Visual Studio 2015\Projects\Chapter 3\Chapter2-Robert.Herbert\Chapter2-Robert.Herbert\obj\Debug\Chapter2-Robert.Herbert.pdb
